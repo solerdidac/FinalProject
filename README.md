@@ -74,5 +74,6 @@ A continuación se describe de forma resumida el proceso que hemos seguido desde
     * Optimización de rendimiento y seguridad.
     * Actualización de dependencias.
    
-  **Link Pagina:** https://gymteam-vmzvy.ondigitalocean.app/ 
+  **Link Pagina:** https://gymprojectds.infinityfreeapp.com/ 
+  **Información Adicional:** https://deepwiki.com/solerdidac/FinalProject/3.1-models-and-database 
 
